@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="574d0ed6-9359-45f9-a666-1e1f33861066" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jobboleSpider/jobboleSpider/spiders/baiduSpider.py" beforeDir="false" afterPath="$PROJECT_DIR$/jobboleSpider/jobboleSpider/spiders/baiduSpider.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,30 +64,32 @@
     <session id="458108199">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
+          <entry key="project.closed" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.opened" value="1" />
+          <entry key="project.open.time.22" value="1" />
+          <entry key="project.opened" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="dummy" value="19" />
-          <entry key="py" value="1569" />
+          <entry key="py" value="4638" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="PLAIN_TEXT" value="19" />
-          <entry key="Python" value="1569" />
+          <entry key="Python" value="4638" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="6" />
+          <entry key="py" value="15" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="6" />
+          <entry key="Python" value="15" />
         </counts>
       </usages-collector>
     </session>
@@ -94,42 +97,56 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/spider-performance.py">
+        <entry file="file://$PROJECT_DIR$/zhihu_user/zhihu_user/settings.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="652">
-              <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
+            <state relative-caret-position="134">
+              <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhihu_user/zhihu_user/spiders/zhihu.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-493">
+              <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
               <folding>
-                <element signature="e#980#995#0" expanded="true" />
-                <marker date="1543889307447" expanded="true" signature="549:556" ph="..." />
-                <marker date="1543889307447" expanded="true" signature="1125:1130" ph="..." />
-                <marker date="1543889307447" expanded="true" signature="1198:1203" ph="..." />
+                <marker date="1544000208980" expanded="true" signature="2083:2092" ph="..." />
+                <marker date="1544000208980" expanded="true" signature="3360:4075" ph="..." />
+                <marker date="1544000208980" expanded="true" signature="4110:4859" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jobboleSpider/jobboleSpider/settings.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/jobboleSpider/jobboleSpider/items.py">
+        <entry file="file://$PROJECT_DIR$/zhihu_user/zhihu_user/middlewares.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="169">
-              <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
-              <folding>
-                <marker date="1543892936832" expanded="true" signature="206:211" ph="..." />
-              </folding>
-            </state>
+            <state relative-caret-position="-2614" />
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/jobboleSpider/jobboleSpider/spiders/baiduSpider.py">
+        <entry file="file://$PROJECT_DIR$/zhihu_user/zhihu_user/pipelines.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="183">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+            <state relative-caret-position="199">
+              <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+              <folding>
+                <marker date="1544000337881" expanded="true" signature="334:1072" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/zhihu_user/zhihu_user/items.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+              <folding>
+                <element signature="e#153#166#0" expanded="true" />
+                <marker date="1543988986947" expanded="true" signature="231:236" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -175,6 +192,14 @@
         <option value="$PROJECT_DIR$/jobboleSpider/jobboleSpider/items.py" />
         <option value="$PROJECT_DIR$/jobboleSpider/jobboleSpider/spiders/Article.py" />
         <option value="$PROJECT_DIR$/jobboleSpider/jobboleSpider/spiders/baiduSpider.py" />
+        <option value="$PROJECT_DIR$/httpbintest/httpbintest/settings.py" />
+        <option value="$PROJECT_DIR$/httpbintest/httpbintest/spiders/httpbin.py" />
+        <option value="$PROJECT_DIR$/httpbintest/httpbintest/spiders/google.py" />
+        <option value="$PROJECT_DIR$/httpbintest/httpbintest/middlewares.py" />
+        <option value="$PROJECT_DIR$/zhihu_user/zhihu_user/items.py" />
+        <option value="$PROJECT_DIR$/zhihu_user/zhihu_user/settings.py" />
+        <option value="$PROJECT_DIR$/zhihu_user/zhihu_user/spiders/zhihu.py" />
+        <option value="$PROJECT_DIR$/zhihu_user/zhihu_user/pipelines.py" />
       </list>
     </option>
   </component>
@@ -184,11 +209,11 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="85" />
-    <option name="y" value="188" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-15" />
+    <option name="y" value="24" />
     <option name="width" value="1315" />
-    <option name="height" value="464" />
+    <option name="height" value="473" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -206,20 +231,13 @@
             <path>
               <item name="spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="jobboleSpider" type="462c0819:PsiDirectoryNode" />
+              <item name="zhihu_user" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="spider" type="b2602c69:ProjectViewProjectNode" />
               <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="jobboleSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="jobboleSpider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="spider" type="462c0819:PsiDirectoryNode" />
-              <item name="jobboleSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="jobboleSpider" type="462c0819:PsiDirectoryNode" />
-              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+              <item name="zhihu_user" type="462c0819:PsiDirectoryNode" />
+              <item name="zhihu_user" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -391,9 +409,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19664635" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20045732" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -407,7 +424,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" visible="true" weight="0.42549372" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.55475765" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -548,19 +565,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="27">
           <caret line="47" column="13" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#TABLE#0;n#td#0;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#TABLE#0;n#DIV#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#td#0;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#0;n#TD#1;n#tr#0;n#table#0;n#form#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#DIV#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#td#0;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#input#1;n#TD#1;n#tr#0;n#table#0;n#form#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#DIV#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#td#0;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#INPUT#0;n#TD#1;n#tr#0;n#table#0;n#form#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#DIV#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#td#0;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#INPUT#1;n#TD#1;n#tr#0;n#table#0;n#form#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#DIV#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#td#0;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#TD#0;n#TR#0;n#table#0;n#form#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#DIV#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#td#0;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#TABLE#0;n#td#0;n#tr#0;n#table#0;n#td#0;n#tr#0;n#table#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#DIV#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#td#0;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#font#0;n#div#0;n#div#0;n#DIV#0;n#TD#0;n#TR#0;n#TBODY#0;n#TABLE#0;n#td#0;n#tr#0;n#table#0;n#div#2;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#3;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -568,11 +572,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2808">
           <caret line="104" column="59" selection-start-line="104" selection-start-column="59" selection-end-line="104" selection-end-column="59" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-            <marker date="1543885200615" expanded="true" signature="536:903" ph="..." />
-            <marker date="1543885200615" expanded="true" signature="943:948" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -580,9 +579,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#0#30#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -590,15 +586,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="351">
           <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/baiduSpider.py" />
+    <entry file="file://$PROJECT_DIR$/jobboleSpider/jobboleSpider/spiders/Article.py" />
     <entry file="file://$PROJECT_DIR$/spider-performance.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="652">
+        <state relative-caret-position="1728">
           <caret line="66" column="31" selection-start-line="66" selection-start-column="31" selection-end-line="66" selection-end-column="31" />
           <folding>
             <element signature="e#980#995#0" expanded="true" />
@@ -612,19 +607,9 @@
     <entry file="file://$PROJECT_DIR$/jobboleSpider/jobboleSpider/settings.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/baiduSpider.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/jobboleSpider/jobboleSpider/spiders/Article.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="264">
-          <caret line="18" column="42" selection-start-line="18" selection-start-column="42" selection-end-line="18" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/jobboleSpider/jobboleSpider/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="169">
+        <state relative-caret-position="621">
           <caret line="23" column="28" selection-start-line="23" selection-start-column="28" selection-end-line="23" selection-end-column="28" />
           <folding>
             <marker date="1543892936832" expanded="true" signature="206:211" ph="..." />
@@ -632,10 +617,90 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/httpbintest/httpbintest/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="56" column="44" selection-start-line="56" selection-start-column="44" selection-end-line="56" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpbintest/httpbintest/spiders/httpbin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="11" column="31" selection-start-line="11" selection-start-column="31" selection-end-line="11" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpbintest/httpbintest/spiders/google.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="12" column="27" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
+          <folding>
+            <marker date="1543976935354" expanded="true" signature="223:316" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/httpbintest/httpbintest/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="117" column="22" selection-start-line="117" selection-start-column="22" selection-end-line="117" selection-end-column="22" />
+          <folding>
+            <element signature="e#169#195#0" expanded="true" />
+            <marker date="1543977210347" expanded="true" signature="3650:3655" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/jobboleSpider/jobboleSpider/spiders/baiduSpider.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="183">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="8" />
+        <state relative-caret-position="270">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihu_user/zhihu_user/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2614" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihu_user/zhihu_user/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <folding>
+            <element signature="e#153#166#0" expanded="true" />
+            <marker date="1543988986947" expanded="true" signature="231:236" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihu_user/zhihu_user/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="134">
+          <caret line="38" column="28" lean-forward="true" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihu_user/zhihu_user/spiders/zhihu.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-493">
+          <caret line="4" column="27" lean-forward="true" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+          <folding>
+            <marker date="1544000208980" expanded="true" signature="2083:2092" ph="..." />
+            <marker date="1544000208980" expanded="true" signature="3360:4075" ph="..." />
+            <marker date="1544000208980" expanded="true" signature="4110:4859" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zhihu_user/zhihu_user/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="15" column="34" lean-forward="true" selection-start-line="15" selection-start-column="34" selection-end-line="15" selection-end-column="34" />
+          <folding>
+            <marker date="1544000337881" expanded="true" signature="334:1072" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>

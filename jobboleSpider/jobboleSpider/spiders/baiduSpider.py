@@ -8,6 +8,6 @@ class BaiduspiderSpider(scrapy.Spider):
     start_urls = ['http://www.baidu.com/']
 
     def parse(self, response):
-        
+
         pass
 
